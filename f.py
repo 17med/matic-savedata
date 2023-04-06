@@ -42,7 +42,7 @@ def on_close(ws, close_status_code, close_msg):
 def on_open(ws):
     print("Opened connection")
 def lt():
-    #websocket.enableTrace(False)
+    websocket.enableTrace(False)
     ws = websocket.WebSocketApp("wss://api.gemini.com/v1/marketdata/MATICUSD",
                               on_open=on_open,
                               on_message=on_message,
