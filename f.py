@@ -48,7 +48,7 @@ def lt():
                               on_message=on_message,
                               on_error=on_error,
                               on_close=on_close)
-    system("cls")
+    system("clear")
     print("hi")
     ws.run_forever(dispatcher=rel, reconnect=5)  # Set dispatcher to automatic reconnection, 5 second reconnect delay if connection closed unexpectedly
     rel.signal(2, rel.abort)  # Keyboard Interrupt
