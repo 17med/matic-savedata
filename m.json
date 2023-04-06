@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "matic-crypto",
+  "private_key_id": "e5381945adf919daf63a6d7d50d9cc62ba415e89",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQDVtGCQ4QWROPc0\nNBUgw8rtP0N2FhoJFz3ag+kZ71k6okv+m6iFznVnN3oIfbGMc3c8CYj6Qz/bVtXX\nVnzePbnKgeY/YfQhly1jz74BXm5Yo+uhxPXTwwBgDIKQc+YMMA54ESA28yv9cUC2\nJ5g64vtimAnPJtkTj0muhOEPYEkuwqyZkGOkT7DnBTp2SexgFWllQCmRVie9oZOs\nRdyovLIVZNYTV9EqgXwfaWXj03d7Qj8zWg35AQGPOyi+VTNWP4wwwGAXRHJjIkgX\nJm7KvVZNR04NfLI1qc8yXZAuzN05czXl6iyuaN+TRyKKIpcyGnpva/zgUcKaBxKt\nUNLqgNjBAgMBAAECggEARGW8aHJU1VONrzwiLP/tYXyXi2Jsh89UAS2p/B6CiQUr\n3HwWdmkLY3M6kCAmpOTJ20HUAQFoHTwQKiEoyvqnjbyApHWl7OBVazYwwoBmQeGJ\nB5gh89pcMuGeIjyt+uWgo+YbUOsIf8/xHbvTeblvKvGtZgsxfBSmyQAHhmPTWG7p\nOx8RHaAQBGyVHqdVvZMvj8NlCkaScDwI7HJyig/SjEod4jLy80UPdzlQ9cU8Ab++\nbJ4fEfvNKsNDaEZblKrFnuS/bHy0KLKZ0Rr+dLq+pJt6v+Vdp8Dgz+g7e8CgENyO\nCk4ilkhwHQ21n5QRE8Hl9yyz6Xv5JDdwLH2IlfWalwKBgQD6eTvPNbKZY0/Y5zzn\n4DTgH+wGVp4LvU6+V1lM6vXn8vl9WS/wbHlGUKMtkUUs2FmQWItWepoYp+SdBz9S\nzXnZvgNQW6aPXTkLB8C+t3jFVEclzAEXtHYk+Dphe7whBkRBm2KAFuUTdH3eSPhE\nvhbVAMn+aHHdQ4B1RWsRCi5HUwKBgQDaa3V/x4RHJk+LXogUOfUJ2R24HNQWCRfN\npJqn42MU8q9GosxJKcZxNGAHFm1K74I9mk4VN/U7tK1Zh2eNhHpdtXabGgyWgC/c\nZXLpLauYDZ510wp7xyJprEHPvanxcwM52PaEyxRWy+NI8AnLbB/LLjIpQXYV5fLV\n3aCzvkgBGwKBgDQQtV0KRXjbCwMEdkWg9nzMRey/XpUEIfUxBRAXG0y+1hu3SV7J\nvZ/fLTxQoTeENYHq1fQBAj0z0TLPCdu1eKnJdLjkhEfy0eO4FdnPG5yxOyThNizu\nR0zCCKiw5tdajR+yJBSKLc4QfgWR14G6ndZjFpn6rgiXeoFmD654FkyfAoGBAINQ\ngbbN09gWz1HiBnvqkEhYcQakxlltJBNtd9Gh4orQkNItxBXkeLrMm0MHl7OqpSm2\nIGWfW9+Gc4XU40vwrsSx+VmsYo8FCEE/+ML5wyVKYs9Bjxb1lNnlRzfHNmnEFNdt\nemBB27uHHuFV9v2GxuKXpm6pPX5S3hj4AsqthoqrAoGBAMleQdTs2vQ5hnCky49p\nbwbBqT8h8Ihbjow3fq/jKHd9O2HHFZcbdRzFDmwTLp5FbkHnIylp2R+s68lbaESz\ncbUmf06vqYHGageNDMDMC8p5vhefVX39A6FdPhO3byjOcxXKfMChQfK0qBINQvOy\nFgTboXf31xYppy+JwLiMdYtG\n-----END PRIVATE KEY-----\n",
+  "client_email": "firebase-adminsdk-dj979@matic-crypto.iam.gserviceaccount.com",
+  "client_id": "111318825130871211682",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/firebase-adminsdk-dj979%40matic-crypto.iam.gserviceaccount.com"
+}
